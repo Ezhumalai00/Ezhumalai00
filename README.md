@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <h1>Hi there, I'm Humal Li 👋</h1>
+  <h1>Hi there, I'm Ezhumalai 👋</h1>
   <h3>Data Engineer (2.5+ YOE) | Aspiring AI Engineer & AI Researcher</h3>
 
   <p>
